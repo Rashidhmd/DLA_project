@@ -10,14 +10,6 @@ Fine-tuning **RF-DETR** (with segmentation head) to detect and delineate brain t
 - [Dataset](#dataset)
 - [Model](#model)
 - [Project Structure](#project-structure)
-- [Setup](#setup)
-- [Usage](#usage)
-  - [Train](#train)
-  - [Evaluate](#evaluate)
-  - [Visualize GT vs Prediction](#visualize-gt-vs-prediction)
-  - [Compare Experiments](#compare-experiments)
-- [Experiments](#experiments)
-- [Results](#results)
 
 ---
 
