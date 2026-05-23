@@ -36,7 +36,7 @@ Key design choices:
 | Classes         | `tumor`, `notumor` |
 | Version         | 1 |
 
-The dataset is downloaded automatically at runtime via the Roboflow SDK. You only need to set your API key (see [Setup](#setup)).
+The dataset is downloaded automatically at runtime via the Roboflow SDK. You only need to set your API key.
 
 ---
 
